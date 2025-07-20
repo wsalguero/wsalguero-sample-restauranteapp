@@ -33,7 +33,7 @@ export default function Home() {
       {/* Cards */}
       <div className="mx-auto grid grid-cols-1 md:grid-cols-3 gap-6 text-center p-8 max-w-6xl">
         {/* Card: Vista de Edición */}
-        <div className="flex flex-col items-center justify-center p-6 bg-green-50 dark:bg-zinc-900 border border-gray-200 dark:border-zinc-700 rounded-xl shadow-md hover:shadow-lg transition-shadow">
+        <div className="flex flex-col items-center justify-center p-6 bg-green-50  border border-gray-200 dark:border-zinc-700 rounded-xl shadow-md hover:shadow-lg transition-shadow">
           <div className="text-5xl mb-4">🛠️</div>
           <h2 className="text-2xl font-semibold mb-2">Vista de Edición</h2>
           <p className="text-xl text-gray-600 dark:text-gray-300 mb-4">
@@ -48,7 +48,7 @@ export default function Home() {
         </div>
 
         {/* Card: Presentaciones */}
-        <div className="flex flex-col items-center justify-center p-6 bg-blue-50 dark:bg-zinc-900 border border-gray-200 dark:border-zinc-700 rounded-xl shadow-md hover:shadow-lg transition-shadow">
+        <div className="flex flex-col items-center justify-center p-6 bg-blue-50  border border-gray-200 dark:border-zinc-700 rounded-xl shadow-md hover:shadow-lg transition-shadow">
           <div className="text-5xl mb-4">📺</div>
           <h2 className="text-2xl font-semibold mb-2">Vista de Presentaciones</h2>
           <p className="text-xl text-gray-600 dark:text-gray-300 mb-4">
@@ -63,7 +63,7 @@ export default function Home() {
         </div>
 
         {/* Card: Vista del Menú Compartible */}
-        <div className="flex flex-col items-center justify-center p-6 bg-purple-50 dark:bg-zinc-900 border border-gray-200 dark:border-zinc-700 rounded-xl shadow-md hover:shadow-lg transition-shadow">
+        <div className="flex flex-col items-center justify-center p-6 bg-purple-50  border border-gray-200 dark:border-zinc-700 rounded-xl shadow-md hover:shadow-lg transition-shadow">
           <div className="text-5xl mb-4">📱</div>
           <h2 className="text-2xl font-semibold mb-2">Vista del Menú</h2>
           <p className="text-xl text-gray-600 dark:text-gray-300 mb-4">
