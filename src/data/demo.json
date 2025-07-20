@@ -1,0 +1,85 @@
+{
+  "presentation": [
+    {
+      "source": "/assets/images/burguer1.webp",
+      "type": "img",
+      "title": "Hamburguesa Clásica",
+      "description": "Pan artesanal, carne 100% res, lechuga fresca, tomate y aderezo especial.",
+      "price": "Q35.00",
+      "group": "Hamburguesas",
+      "category": "Comida"
+    },
+    {
+      "source": "/assets/images/burguer3.webp",
+      "type": "img",
+      "title": "Hamburguesa Doble",
+      "description": "Doble carne, doble queso, pepinillos y mostaza.",
+      "price": "Q49.00",
+      "group": "Hamburguesas",
+      "category": "Comida"
+    },
+    {
+      "source": "/assets/images/burguer4.webp",
+      "type": "img",
+      "title": "Hamburguesa con Tocino",
+      "description": "Hamburguesa de res con crujiente tocino, cebolla caramelizada y queso cheddar.",
+      "price": "Q42.00",
+      "group": "Hamburguesas",
+      "category": "Comida"
+    },
+    {
+      "source": "/assets/images/papas2.webp",
+      "type": "img",
+      "title": "Papas con Queso",
+      "description": "Papas acompañadas con queso cheddar derretido.",
+      "price": "Q22.00",
+      "group": "Papas",
+      "category": "Comida"
+    },
+    {
+      "source": "/assets/images/papas3.jpg",
+      "type": "img",
+      "title": "Papas Fritas Especiales",
+      "description": "Papas crujientes con hierbas, paprika y dip de la casa.",
+      "price": "Q24.00",
+      "group": "Papas",
+      "category": "Comida"
+    },
+    {
+      "source": "/assets/images/papas1.jpg",
+      "type": "img",
+      "title": "Papas a la Francesa",
+      "description": "Clásicas papas a la francesa con sal de ajo.",
+      "price": "Q18.00",
+      "group": "Papas",
+      "category": "Comida"
+    },
+    {
+      "source": "/assets/images/nachos3.webp",
+      "type": "img",
+      "title": "Nachos BBQ",
+      "description": "Nachos con salsa BBQ y queso fundido.",
+      "price": "Q25.00",
+      "group": "Nachos",
+      "category": "Comida"
+    },
+    {
+      "source": "/assets/images/nachos1.webp",
+      "type": "img",
+      "title": "Nachos de Pollo",
+      "description": "Nachos con pollo desmenuzado, jalapeños y crema.",
+      "price": "Q29.00",
+      "group": "Nachos",
+      "category": "Comida"
+    },
+    {
+      "source": "/assets/images/nachos2.jpg",
+      "type": "img",
+      "title": "Nachos Mexicanos",
+      "description": "Totopos con carne, frijoles, guacamole y pico de gallo.",
+      "price": "Q33.00",
+      "group": "Nachos",
+      "category": "Comida"
+    }
+  ]
+}
